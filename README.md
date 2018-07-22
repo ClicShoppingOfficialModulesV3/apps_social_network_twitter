@@ -30,7 +30,7 @@ Activate the module in Administration / SocialNetwork
 Activate the module in Administration / Dashboard Menu
 
 
-marketplace link : https://www.clicshopping.org/forum/files/file/43-apps-social-network-twitter/
+marketplace link : https://www.clicshopping.org/forum/files/file/40-apps-social-network-twitter/
 
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/apps_social_network_twitter/blob/master/ModuleInfosJson/twitter.png)
