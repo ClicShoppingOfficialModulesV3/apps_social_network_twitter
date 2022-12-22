@@ -1,0 +1,2 @@
+cfg_twittersn_access_token_title = Please insert your code accessToken
+cfg_twittersn_access_token_description = Please specify the code accessToken<br /><b>Note : </b> Click on the My Access Token button
