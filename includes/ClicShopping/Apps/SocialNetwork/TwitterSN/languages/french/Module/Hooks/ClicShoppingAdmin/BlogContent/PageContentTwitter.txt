@@ -1,0 +1,4 @@
+text_twitter = Souhaitez vous publier sur Twitter ?
+
+text_yes = Oui
+text_no = Non

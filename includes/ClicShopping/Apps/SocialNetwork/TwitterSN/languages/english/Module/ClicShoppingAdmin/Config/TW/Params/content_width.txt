@@ -1,0 +1,2 @@
+cfg_twittersn_content_width_title = Select the width to display
+cfg_twittersn_content_width_description = Select a number between 1 to 12

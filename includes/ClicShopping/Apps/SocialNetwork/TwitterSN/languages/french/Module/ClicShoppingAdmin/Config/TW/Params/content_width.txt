@@ -1,0 +1,2 @@
+cfg_twittersn_content_width_title = Veuillez selectionner la largeur de l'affichage
+cfg_twittersn_content_width_description = Veuillez indiquer un nombre compris entre 1 et 12

@@ -1,0 +1,1 @@
+text_twitter_product = Découvrez notre nouveau produit !

@@ -1,0 +1,6 @@
+cfg_twittersn_status_title = Statut
+cfg_twittersn_status_description = Souhaitez vous activer ce module à votre boutique
+
+cfg_twittersn_status_true = True
+cfg_twittersn_status_false = False
+

@@ -1,0 +1,4 @@
+text_twitter = Do you want to send on twitter ?
+
+text_yes = Yes
+text_no = No

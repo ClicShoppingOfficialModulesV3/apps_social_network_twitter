@@ -1,0 +1,6 @@
+module_admin_dashboard_title = Do you want to install send a tweet message
+module_admin_dashboard_description =  Send a tweet message on twittersn
+
+
+text_title_twitter = Tweet
+button_submit = Send

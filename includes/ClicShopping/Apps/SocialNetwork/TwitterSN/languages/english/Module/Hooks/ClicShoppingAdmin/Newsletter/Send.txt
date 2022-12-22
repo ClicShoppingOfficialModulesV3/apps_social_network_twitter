@@ -1,0 +1,1 @@
+text_twitter = Find our lastest newsletter on {{store_name}} :

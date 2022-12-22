@@ -1,0 +1,6 @@
+cfg_twittersn_status_title = Status
+cfg_twittersn_status_description = Set True to enable or not the module
+
+cfg_twittersn_status_true = True
+cfg_twittersn_status_false = False
+

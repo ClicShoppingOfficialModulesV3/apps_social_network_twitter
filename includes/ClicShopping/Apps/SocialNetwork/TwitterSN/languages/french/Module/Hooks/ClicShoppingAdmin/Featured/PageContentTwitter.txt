@@ -1,0 +1,4 @@
+text_twitter = Souhaitez-vous publier ce produit sur Twitter ?
+
+text_yes = Oui
+text_no = Non

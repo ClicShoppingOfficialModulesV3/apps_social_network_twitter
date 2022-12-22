@@ -1,0 +1,2 @@
+text_new_discount_twitter = Nouveau Coupon d'achat disponible sur {{store_name}} !
+text_twitter_amount = Amount :

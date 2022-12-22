@@ -1,0 +1,2 @@
+text_new_specials_twitter = ATTENTION : Nouvelle promotion sur {{store_name}} !
+text_flash_discount_twitter = ATTENTION : Vente Flash maintenant et pas après ! sur {{store_name}} !

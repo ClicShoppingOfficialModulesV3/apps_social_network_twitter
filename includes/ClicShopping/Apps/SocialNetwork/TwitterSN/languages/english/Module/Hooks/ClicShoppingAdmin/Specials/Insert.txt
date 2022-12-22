@@ -1,0 +1,2 @@
+text_new_specials_twitter = Specials new on {{store_name}} !
+text_flash_discount_twitter = BECAREFULL : Flash Discount Now and not after !

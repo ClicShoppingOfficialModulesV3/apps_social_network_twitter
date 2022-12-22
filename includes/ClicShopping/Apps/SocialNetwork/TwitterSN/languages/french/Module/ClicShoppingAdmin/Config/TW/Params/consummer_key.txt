@@ -1,0 +1,2 @@
+cfg_twittersn_consummer_key_title = Veuillez insérer votre code consumerKey
+cfg_twittersn_consummer_key_description = Veuillez indiquer le code consumerKey

@@ -1,0 +1,4 @@
+module_admin_dashboard_title = Do you want to send a Twitter message
+module_admin_dashboard_Description = Send a Twitter message
+text_title_twitter = Twitter
+button_submit = Send

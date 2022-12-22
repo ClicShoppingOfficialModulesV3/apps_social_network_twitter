@@ -1,0 +1,4 @@
+module_admin_dashboard_title = Souhaitez-vous installer le système d'envoi des messages à Twitter ?
+module_admin_dashboard_Description = Envoyer un message à Twitter
+text_title_twitter = Twitter
+button_submit = Envoyer

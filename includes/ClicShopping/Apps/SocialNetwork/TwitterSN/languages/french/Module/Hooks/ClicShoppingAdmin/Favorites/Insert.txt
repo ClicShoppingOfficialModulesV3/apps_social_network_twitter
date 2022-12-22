@@ -1,0 +1,1 @@
+text_new_favorites_twitter = ATTENTION : Nouveau favoris sur {{store_name}} !

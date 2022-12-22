@@ -1,0 +1,3 @@
+heading_title = Twitter
+module_tw_short_title = Twitter
+text_twitter = Twitter

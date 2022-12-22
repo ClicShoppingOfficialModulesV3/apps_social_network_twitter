@@ -1,0 +1,1 @@
+text_new_featured_twitter = ATTENTION : Nouveau produit sélectionné sur {{store_name}} !

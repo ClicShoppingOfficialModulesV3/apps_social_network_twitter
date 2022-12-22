@@ -1,0 +1,1 @@
+text_twitter = Retrouvez notre dernière newsletter parue sur {{store_name}} :

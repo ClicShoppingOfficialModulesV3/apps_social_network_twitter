@@ -1,0 +1,4 @@
+text_twitter = Social networks
+text_discount_twitter = Souhaitez-vous envoyer sur Twitter ?
+text_yes = Yes
+text_no = No
